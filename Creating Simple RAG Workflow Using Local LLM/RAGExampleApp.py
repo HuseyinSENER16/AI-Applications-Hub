@@ -90,7 +90,7 @@ async def main():
     
     # Perform a query
     print("#####---> Started Querying..")
-    result = await workflow.query("How old was Sultan Mehmed when he became the leader of the Ottoman Empire?")
+    result = await workflow.query("How old was Sultan Mehmed when he became the leader of the Ottoman Empire? What was his age?")
     
     # Print the response
     print("#####---> Started Printing Response..")
