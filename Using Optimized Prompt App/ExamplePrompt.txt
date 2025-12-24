@@ -1,0 +1,2 @@
+I want you to write a very simple Python code. 
+This Python code must be display "Hello Huseyin". 
